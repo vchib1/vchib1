@@ -16,7 +16,7 @@
 <a href="https://stackoverflow.com/users/21590733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21590733" height="30" width="40" /></a>
 <a href="https://fb.com/vchib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vchib1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vchib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vchib1" height="30" width="40" /></a>
-<a href="https://reddit.com/vchib1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/b/bd/Reddit_Logo_Icon.svg" alt="vchib1" height="30" width="40" /></a>
+<a href="https://reddit.com/user/vchib1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/b/bd/Reddit_Logo_Icon.svg" alt="vchib1" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/vchib1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="vchib1" height="30" width="40" /></a>
 </p>
 
